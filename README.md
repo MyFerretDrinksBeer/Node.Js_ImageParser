@@ -23,7 +23,7 @@ Parses all images from any given URL. Works within the console, returns the imag
 
 9. It should now grab all of the image DOM elements from the given URL and log each images source in the console window
 
-10. Lastly, it also will setup a server on "localhost:5051" or "127.0.0.1:5001" where it will write all of the images to a browser document for you to view them
+10. Lastly, it also will setup a server on "localhost:5001 or "127.0.0.1:5001" where it will write all of the images to a browser document for you to view them
 
 
 <br><br><br>
@@ -47,5 +47,5 @@ Press "Enter" and it will log the images sources in the console window
 
 <br><br>
 
-Open your browser and go to "localhost:5051" to view the images that were parsed
+Open your browser and go to "localhost:5001"to view the images that were parsed
 ![Screenshot 4](./images/screenshot4.png)
