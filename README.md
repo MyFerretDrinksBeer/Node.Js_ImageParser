@@ -4,7 +4,6 @@ Parses all images from any given URL. Works within the console, returns the imag
 
 <b>Setup & Use:</b>
 
-<br><br>
 
 1. This script runs on Node.js so if you do not already have it downloaded you can dowload it here ----> https://nodejs.org/en/
 
@@ -31,7 +30,6 @@ Parses all images from any given URL. Works within the console, returns the imag
 
 
 <b>Example (using a Google images URL):</b>
-<br><br>
 
 
 Open parser by running <b><i>node imgParser.js </i></b>
