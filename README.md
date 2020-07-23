@@ -3,8 +3,8 @@ Parses all images from any given URL. Works within the console, returns the imag
 
 <br><br>
 
-<b>Setup & Use:</b>
-
+<h2><b>Setup & Use:</b></h2>
+<hr>
 
 1. This script runs on Node.js so if you do not already have it downloaded you can dowload it here ----> https://nodejs.org/en/
 
@@ -30,8 +30,8 @@ Parses all images from any given URL. Works within the console, returns the imag
 <br><br><br>
 
 
-<b>Example (using a Google images URL):</b>
-
+<h2><b>Example (using a Google images URL):</b></h2>
+<hr>
 
 Open parser by running <b><i>node imgParser.js </i></b>
 ![Screenshot 1](./images/screenshot1.png)
