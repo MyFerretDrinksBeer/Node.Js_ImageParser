@@ -4,6 +4,8 @@ Parses all images from any given URL. Works within the console, returns the imag
 
 <b>Setup & Use:</b>
 
+<br><br>
+
 1. This script runs on Node.js so if you do not already have it downloaded you can dowload it here ----> https://nodejs.org/en/
 
 2. Once Node.js is installed simply download the repository or <b><i>git clone</i></b> it
@@ -29,24 +31,24 @@ Parses all images from any given URL. Works within the console, returns the imag
 
 
 <b>Example (using a Google images URL):</b>
-
+<br><br>
 
 
 Open parser by running <b><i>node imgParser.js </i></b>
 ![Screenshot 1](./images/screenshot1.png)
 
-
+<br><br>
 
 Enter the desired URL you want to parse images from
 ![Screenshot 2](./images/screenshot2.png)
 
-
+<br><br>
 
 Press "Enter" and it will log the images sources in the console window
 ![Screenshot 3](./images/screenshot3.png)
 
 
-
+<br><br>
 
 Open your browser and go to "localhost:5051" to view the images that were parsed
 ![Screenshot 4](./images/screenshot4.png)
