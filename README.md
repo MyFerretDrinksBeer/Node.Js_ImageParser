@@ -26,4 +26,27 @@ Parses all images from any given URL. Works within the console, returns the imag
 
 
 
-![Alt text](./screenshot1.png)
+
+
+<b>Example (using a Google images URL):</b>
+
+
+
+Open parser by running <b><i>node imgParser.js </i></b>
+![Screenshot 1](./images/screenshot1.png)
+
+
+
+Enter the desired URL you want to parse images from
+![Screenshot 2](./images/screenshot2.png)
+
+
+
+Press "Enter" and it will log the images sources in the console window
+![Screenshot 3](./screenshot3.png)
+
+
+
+
+Open your browser and go to "localhost:5051" to view the images that were parsed
+![Screenshot 4](./screenshot4.png)
