@@ -25,7 +25,7 @@ Parses all images from any given URL. Works within the console, returns the imag
 10. Lastly, it also will setup a server on "localhost:5051" or "127.0.0.1:5001" where it will write all of the images to a browser document for you to view them
 
 
-
+<br><br><br>
 
 
 <b>Example (using a Google images URL):</b>
@@ -43,10 +43,10 @@ Enter the desired URL you want to parse images from
 
 
 Press "Enter" and it will log the images sources in the console window
-![Screenshot 3](./screenshot3.png)
+![Screenshot 3](./images/screenshot3.png)
 
 
 
 
 Open your browser and go to "localhost:5051" to view the images that were parsed
-![Screenshot 4](./screenshot4.png)
+![Screenshot 4](./images/screenshot4.png)
